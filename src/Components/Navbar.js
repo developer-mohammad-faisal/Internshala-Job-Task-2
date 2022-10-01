@@ -4,7 +4,7 @@ import reset from '../assets/images/icon/undo.png'
 const Navbar = () => {
   return (
     <Fragment>
-      <section className="max-w-[1200px] mx-auto pt-20 ">
+      <section className="max-w-[1200px] mx-auto pt-20 pb-8 ">
         <div className="flex justify-between">
           <div className="gap-x-6 flex items-center ">
             <div>
