@@ -1,9 +1,13 @@
 import { Fragment } from "react";
+import Navbar from "./Components/Navbar";
 
 function App() {
   return (
     <Fragment>
-        <h1 className="justify-center items-center flex h-screen" >hello boss how are you</h1>
+        
+        <Navbar/>
+        
+
     </Fragment>
   );
 }
